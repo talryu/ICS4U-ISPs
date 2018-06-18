@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MemoryGame-ISP
+</name>
+</assembly>
+<members>
+<member name="M:WindowsApplication1.form3.AssignSymbolsToLabels">
+ Assign each symbol from the list of symbols to a random square. 
+
+</member><member name="M:WindowsApplication1.form3.CheckForWinner">
+ Check every symbol to see if it is matched, by   
+ comparing its foreground color to its background color.   
+ If all of the symbols are matched, the player wins. 
+
+</member><member name="M:WindowsApplication1.form2.AssignSymbolsToLabels">
+ Assign each symbol from the list of symbols to a random square. 
+
+</member><member name="M:WindowsApplication1.form2.CheckForWinner">
+ Check every symbol to see if it is matched, by   
+ comparing its foreground color to its background color.   
+ If all of the symbols are matched, the player wins. 
+
+</member><member name="M:WindowsApplication1.Form1.AssignSymbolsToLabels">
+ Assign each symbol from the list of symbols to a random square. 
+
+</member><member name="M:WindowsApplication1.Form1.CheckForWinner">
+ Check every symbol to see if it is matched, by   
+ comparing its foreground color to its background color.   
+ If all of the symbols are matched, the player wins. 
+
+</member><member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
