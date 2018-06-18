@@ -1,0 +1,27 @@
+C:\Users\barri\AppData\Local\Temporary Projects\Erica Faye Barriatos - Bejeweled\bin\Debug\Erica Faye Barriatos - Bejeweled.exe
+C:\Users\barri\AppData\Local\Temporary Projects\Erica Faye Barriatos - Bejeweled\bin\Debug\Erica Faye Barriatos - Bejeweled.pdb
+C:\Users\barri\AppData\Local\Temporary Projects\Erica Faye Barriatos - Bejeweled\bin\Debug\Erica Faye Barriatos - Bejeweled.xml
+C:\Users\barri\AppData\Local\Temporary Projects\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica_Faye_Barriatos___Bejeweled.Form1.resources
+C:\Users\barri\AppData\Local\Temporary Projects\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica_Faye_Barriatos___Bejeweled.Resources.resources
+C:\Users\barri\AppData\Local\Temporary Projects\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.vbproj.GenerateResource.Cache
+C:\Users\barri\AppData\Local\Temporary Projects\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.exe
+C:\Users\barri\AppData\Local\Temporary Projects\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.xml
+C:\Users\barri\AppData\Local\Temporary Projects\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.pdb
+D:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.exe
+D:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.xml
+D:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.pdb
+D:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\bin\Debug\Erica Faye Barriatos - Bejeweled.exe
+D:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\bin\Debug\Erica Faye Barriatos - Bejeweled.pdb
+D:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\bin\Debug\Erica Faye Barriatos - Bejeweled.xml
+D:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica_Faye_Barriatos___Bejeweled.Form1.resources
+D:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica_Faye_Barriatos___Bejeweled.Resources.resources
+D:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.vbproj.GenerateResource.Cache
+E:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.exe
+E:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.xml
+E:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.pdb
+E:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\bin\Debug\Erica Faye Barriatos - Bejeweled.exe
+E:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\bin\Debug\Erica Faye Barriatos - Bejeweled.pdb
+E:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\bin\Debug\Erica Faye Barriatos - Bejeweled.xml
+E:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica_Faye_Barriatos___Bejeweled.Form1.resources
+E:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica_Faye_Barriatos___Bejeweled.Resources.resources
+E:\Programming Project\Erica Faye Barriatos - Bejeweled\Erica Faye Barriatos - Bejeweled\obj\x86\Debug\Erica Faye Barriatos - Bejeweled.vbproj.GenerateResource.Cache
