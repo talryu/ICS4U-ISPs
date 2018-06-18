@@ -1,0 +1,27 @@
+C:\Users\323952705\AppData\Local\Temporary Projects\BlackJack 21\bin\Debug\BlackJack 21.exe
+C:\Users\323952705\AppData\Local\Temporary Projects\BlackJack 21\bin\Debug\BlackJack 21.pdb
+C:\Users\323952705\AppData\Local\Temporary Projects\BlackJack 21\bin\Debug\BlackJack 21.xml
+C:\Users\323952705\AppData\Local\Temporary Projects\BlackJack 21\obj\x86\Debug\BlackJack_21.Form1.resources
+C:\Users\323952705\AppData\Local\Temporary Projects\BlackJack 21\obj\x86\Debug\BlackJack_21.Resources.resources
+C:\Users\323952705\AppData\Local\Temporary Projects\BlackJack 21\obj\x86\Debug\BlackJack 21.vbproj.GenerateResource.Cache
+C:\Users\323952705\AppData\Local\Temporary Projects\BlackJack 21\obj\x86\Debug\BlackJack 21.exe
+C:\Users\323952705\AppData\Local\Temporary Projects\BlackJack 21\obj\x86\Debug\BlackJack 21.xml
+C:\Users\323952705\AppData\Local\Temporary Projects\BlackJack 21\obj\x86\Debug\BlackJack 21.pdb
+H:\Visual Studio 2010\Projects\BlackJack 21\BlackJack 21\obj\x86\Debug\BlackJack 21.exe
+H:\Visual Studio 2010\Projects\BlackJack 21\BlackJack 21\obj\x86\Debug\BlackJack 21.xml
+H:\Visual Studio 2010\Projects\BlackJack 21\BlackJack 21\obj\x86\Debug\BlackJack 21.pdb
+H:\Visual Studio 2010\Projects\BlackJack 21\BlackJack 21\bin\Debug\BlackJack 21.exe
+H:\Visual Studio 2010\Projects\BlackJack 21\BlackJack 21\bin\Debug\BlackJack 21.pdb
+H:\Visual Studio 2010\Projects\BlackJack 21\BlackJack 21\bin\Debug\BlackJack 21.xml
+H:\Visual Studio 2010\Projects\BlackJack 21\BlackJack 21\obj\x86\Debug\BlackJack_21.Form1.resources
+H:\Visual Studio 2010\Projects\BlackJack 21\BlackJack 21\obj\x86\Debug\BlackJack_21.Resources.resources
+H:\Visual Studio 2010\Projects\BlackJack 21\BlackJack 21\obj\x86\Debug\BlackJack 21.vbproj.GenerateResource.Cache
+D:\ICS4U ISPs\Black Jack 21 Christopher Moon\BlackJack 21\obj\x86\Debug\BlackJack 21.exe
+D:\ICS4U ISPs\Black Jack 21 Christopher Moon\BlackJack 21\obj\x86\Debug\BlackJack 21.xml
+D:\ICS4U ISPs\Black Jack 21 Christopher Moon\BlackJack 21\obj\x86\Debug\BlackJack 21.pdb
+D:\ICS4U ISPs\Black Jack 21 Christopher Moon\BlackJack 21\bin\Debug\BlackJack 21.exe
+D:\ICS4U ISPs\Black Jack 21 Christopher Moon\BlackJack 21\bin\Debug\BlackJack 21.pdb
+D:\ICS4U ISPs\Black Jack 21 Christopher Moon\BlackJack 21\bin\Debug\BlackJack 21.xml
+D:\ICS4U ISPs\Black Jack 21 Christopher Moon\BlackJack 21\obj\x86\Debug\BlackJack_21.Form1.resources
+D:\ICS4U ISPs\Black Jack 21 Christopher Moon\BlackJack 21\obj\x86\Debug\BlackJack_21.Resources.resources
+D:\ICS4U ISPs\Black Jack 21 Christopher Moon\BlackJack 21\obj\x86\Debug\BlackJack 21.vbproj.GenerateResource.Cache
