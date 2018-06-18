@@ -1,0 +1,12 @@
+C:\Users\Dennis\Documents\VB 2010 Projects\ISPPianoDennisKim\ISPPianoDennisKim\bin\Debug\ISPPianoDennisKim.exe
+C:\Users\Dennis\Documents\VB 2010 Projects\ISPPianoDennisKim\ISPPianoDennisKim\bin\Debug\ISPPianoDennisKim.pdb
+C:\Users\Dennis\Documents\VB 2010 Projects\ISPPianoDennisKim\ISPPianoDennisKim\bin\Debug\ISPPianoDennisKim.xml
+C:\Users\Dennis\Documents\VB 2010 Projects\ISPPianoDennisKim\ISPPianoDennisKim\obj\x86\Debug\ISPPianoDennisKim.Form1.resources
+C:\Users\Dennis\Documents\VB 2010 Projects\ISPPianoDennisKim\ISPPianoDennisKim\obj\x86\Debug\ISPPianoDennisKim.Resources.resources
+C:\Users\Dennis\Documents\VB 2010 Projects\ISPPianoDennisKim\ISPPianoDennisKim\obj\x86\Debug\ISPPianoDennisKim.vbproj.GenerateResource.Cache
+C:\Users\Dennis\Documents\VB 2010 Projects\ISPPianoDennisKim\ISPPianoDennisKim\obj\x86\Debug\ISPPianoDennisKim.exe
+C:\Users\Dennis\Documents\VB 2010 Projects\ISPPianoDennisKim\ISPPianoDennisKim\obj\x86\Debug\ISPPianoDennisKim.xml
+C:\Users\Dennis\Documents\VB 2010 Projects\ISPPianoDennisKim\ISPPianoDennisKim\obj\x86\Debug\ISPPianoDennisKim.pdb
+C:\Users\Dennis\Desktop\ISPPianoDennisKim\ISPPianoDennisKim\obj\x86\Debug\ISPPianoDennisKim.exe
+C:\Users\Dennis\Desktop\ISPPianoDennisKim\ISPPianoDennisKim\obj\x86\Debug\ISPPianoDennisKim.xml
+C:\Users\Dennis\Desktop\ISPPianoDennisKim\ISPPianoDennisKim\obj\x86\Debug\ISPPianoDennisKim.pdb
