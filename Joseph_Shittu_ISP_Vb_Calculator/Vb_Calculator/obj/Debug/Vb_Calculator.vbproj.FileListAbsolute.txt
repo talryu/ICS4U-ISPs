@@ -1,0 +1,18 @@
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\bin\Debug\Vb_Calculator.exe.config
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\bin\Debug\Vb_Calculator.exe
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\bin\Debug\Vb_Calculator.pdb
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\bin\Debug\Vb_Calculator.xml
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.vbprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.Form1.resources
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.Resources.resources
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.vbproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.exe
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.xml
+C:\Users\Owner\source\repos\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.pdb
+D:\Computer Science Mrs Ann livshit\Vb_Calculator\Vb_Calculator\bin\Debug\Vb_Calculator.exe.config
+D:\Computer Science Mrs Ann livshit\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.exe
+D:\Computer Science Mrs Ann livshit\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.xml
+D:\Computer Science Mrs Ann livshit\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.pdb
+D:\Computer Science Mrs Ann livshit\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.vbprojResolveAssemblyReference.cache
+D:\Computer Science Mrs Ann livshit\Vb_Calculator\Vb_Calculator\obj\Debug\Vb_Calculator.vbprojAssemblyReference.cache
