@@ -1,0 +1,6 @@
+C:\Users\jackl\Documents\Visual Studio 2010\Projects\Space invader Jacklin Chidlovski\Space invader Jacklin Chidlovski\obj\x86\Debug\Space invader Jacklin Chidlovski.exe
+C:\Users\jackl\Documents\Visual Studio 2010\Projects\Space invader Jacklin Chidlovski\Space invader Jacklin Chidlovski\obj\x86\Debug\Space invader Jacklin Chidlovski.xml
+C:\Users\jackl\Documents\Visual Studio 2010\Projects\Space invader Jacklin Chidlovski\Space invader Jacklin Chidlovski\obj\x86\Debug\Space invader Jacklin Chidlovski.pdb
+E:\ICS4U ISPs\Jacklin Chidlovski ISP\Space invader Jacklin Chidlovski\Space invader Jacklin Chidlovski\obj\x86\Debug\Space invader Jacklin Chidlovski.exe
+E:\ICS4U ISPs\Jacklin Chidlovski ISP\Space invader Jacklin Chidlovski\Space invader Jacklin Chidlovski\obj\x86\Debug\Space invader Jacklin Chidlovski.xml
+E:\ICS4U ISPs\Jacklin Chidlovski ISP\Space invader Jacklin Chidlovski\Space invader Jacklin Chidlovski\obj\x86\Debug\Space invader Jacklin Chidlovski.pdb
